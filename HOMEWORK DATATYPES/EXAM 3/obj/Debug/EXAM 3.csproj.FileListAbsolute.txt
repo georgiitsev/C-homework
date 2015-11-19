@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 3\bin\Debug\EXAM 3.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 3\bin\Debug\EXAM 3.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 3\bin\Debug\EXAM 3.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 3\obj\Debug\EXAM 3.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 3\obj\Debug\EXAM 3.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 3\obj\Debug\EXAM 3.pdb

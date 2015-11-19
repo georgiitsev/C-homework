@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\HOMEWORK DATATYPES\bin\Debug\HOMEWORK DATATYPES.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\HOMEWORK DATATYPES\obj\Debug\HOMEWORK DATATYPES.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\HOMEWORK DATATYPES\obj\Debug\HOMEWORK DATATYPES.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\HOMEWORK DATATYPES\bin\Debug\HOMEWORK DATATYPES.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\HOMEWORK DATATYPES\bin\Debug\HOMEWORK DATATYPES.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\HOMEWORK DATATYPES\obj\Debug\namespace choose_the_corect_value.csprojResolveAssemblyReference.cache

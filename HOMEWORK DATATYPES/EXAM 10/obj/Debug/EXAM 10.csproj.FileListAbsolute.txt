@@ -1,0 +1,5 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 10\bin\Debug\EXAM 10.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 10\bin\Debug\EXAM 10.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 10\bin\Debug\EXAM 10.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 10\obj\Debug\EXAM 10.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 10\obj\Debug\EXAM 10.pdb

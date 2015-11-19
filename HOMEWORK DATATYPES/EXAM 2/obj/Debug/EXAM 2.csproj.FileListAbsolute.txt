@@ -1,0 +1,2 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 2\bin\Debug\EXAM 2.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK DATATYPES\EXAM 2\bin\Debug\sum_Of_Two_Integer.exe.config
