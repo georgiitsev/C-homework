@@ -1,0 +1,10 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam3\bin\Debug\loop_Exam3.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam3\bin\Debug\loop_Exam3.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam3\bin\Debug\loop_Exam3.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam3\obj\Debug\loop_Exam3.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam3\obj\Debug\loop_Exam3.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam3\bin\Debug\loop_Exam3.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam3\obj\Debug\loop_Exam3.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam3\obj\Debug\loop_Exam3.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam3\bin\Debug\loop_Exam3.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam3\bin\Debug\loop_Exam3.pdb

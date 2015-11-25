@@ -1,9 +1,0 @@
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\bin\Debug\calcolator.exe.config
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\bin\Debug\calcolator.exe
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\bin\Debug\calcolator.pdb
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\obj\Debug\calcolator.csprojResolveAssemblyReference.cache
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\obj\Debug\calcolator.Form1.resources
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\obj\Debug\calcolator.Properties.Resources.resources
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\obj\Debug\calcolator.csproj.GenerateResource.Cache
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\obj\Debug\calcolator.exe
-c:\users\георги\documents\visual studio 2012\Projects\calcolator\calcolator\obj\Debug\calcolator.pdb

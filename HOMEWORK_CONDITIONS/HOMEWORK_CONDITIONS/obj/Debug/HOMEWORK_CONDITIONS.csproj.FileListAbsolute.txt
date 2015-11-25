@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\HOMEWORK_CONDITIONS\bin\Debug\HOMEWORK_CONDITIONS.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\HOMEWORK_CONDITIONS\obj\Debug\HOMEWORK_CONDITIONS.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\HOMEWORK_CONDITIONS\bin\Debug\HOMEWORK_CONDITIONS.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\HOMEWORK_CONDITIONS\bin\Debug\HOMEWORK_CONDITIONS.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\HOMEWORK_CONDITIONS\obj\Debug\HOMEWORK_CONDITIONS.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\HOMEWORK_CONDITIONS\obj\Debug\HOMEWORK_CONDITIONS.pdb

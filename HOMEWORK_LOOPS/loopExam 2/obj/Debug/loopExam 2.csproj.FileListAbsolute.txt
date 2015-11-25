@@ -1,0 +1,12 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loopExam 2\bin\Debug\loopExam 2.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loopExam 2\bin\Debug\loopExam 2.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loopExam 2\bin\Debug\loopExam 2.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loopExam 2\obj\Debug\loopExam 2.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loopExam 2\obj\Debug\loopExam 2.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loopExam 2\obj\Debug\loopExam 2.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loopExam 2\bin\Debug\loopExam 2.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loopExam 2\obj\Debug\loopExam 2.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loopExam 2\obj\Debug\loopExam 2.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loopExam 2\bin\Debug\loopExam 2.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loopExam 2\bin\Debug\loopExam 2.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loopExam 2\obj\Debug\loopExam 2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_exam4\bin\Debug\loop_exam4.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_exam4\bin\Debug\loop_exam4.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_exam4\bin\Debug\loop_exam4.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_exam4\bin\Debug\loop_exam4.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_exam4\obj\Debug\loop_exam4.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_exam4\obj\Debug\loop_exam4.pdb

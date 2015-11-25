@@ -1,0 +1,5 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 2\bin\Debug\conditions exam 2.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 2\bin\Debug\conditions exam 2.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 2\bin\Debug\conditions exam 2.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 2\obj\Debug\conditions exam 2.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 2\obj\Debug\conditions exam 2.pdb

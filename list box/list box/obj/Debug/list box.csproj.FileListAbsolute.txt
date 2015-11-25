@@ -1,9 +1,0 @@
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\bin\Debug\list box.exe.config
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\bin\Debug\list box.exe
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\bin\Debug\list box.pdb
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\obj\Debug\list box.csprojResolveAssemblyReference.cache
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\obj\Debug\list_box.Form1.resources
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\obj\Debug\list_box.Properties.Resources.resources
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\obj\Debug\list box.csproj.GenerateResource.Cache
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\obj\Debug\list box.exe
-c:\users\георги\documents\visual studio 2012\Projects\list box\list box\obj\Debug\list box.pdb

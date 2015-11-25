@@ -1,0 +1,8 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam5\bin\Debug\loop_Exam5.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam5\bin\Debug\loop_Exam5.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam5\bin\Debug\loop_Exam5.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam5\obj\Debug\loop_Exam5.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\loop_Exam5\obj\Debug\loop_Exam5.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam5\bin\Debug\loop_Exam5.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam5\obj\Debug\loop_Exam5.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\loop_Exam5\obj\Debug\loop_Exam5.pdb

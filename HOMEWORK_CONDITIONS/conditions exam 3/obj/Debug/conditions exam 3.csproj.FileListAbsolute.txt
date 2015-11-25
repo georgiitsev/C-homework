@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 3\bin\Debug\conditions exam 3.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 3\bin\Debug\conditions exam 3.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 3\bin\Debug\conditions exam 3.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 3\obj\Debug\conditions exam 3.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 3\obj\Debug\conditions exam 3.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_CONDITIONS\conditions exam 3\obj\Debug\conditions exam 3.pdb

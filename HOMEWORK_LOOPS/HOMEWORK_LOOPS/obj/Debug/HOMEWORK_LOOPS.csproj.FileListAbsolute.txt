@@ -1,0 +1,6 @@
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\HOMEWORK_LOOPS\bin\Debug\HOMEWORK_LOOPS.exe.config
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\HOMEWORK_LOOPS\bin\Debug\HOMEWORK_LOOPS.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\HOMEWORK_LOOPS\bin\Debug\HOMEWORK_LOOPS.pdb
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\HOMEWORK_LOOPS\obj\Debug\HOMEWORK_LOOPS.csprojResolveAssemblyReference.cache
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\HOMEWORK_LOOPS\obj\Debug\HOMEWORK_LOOPS.exe
+C:\Users\ГЕОРГИ\Documents\Visual Studio 2012\Projects\HOMEWORK_LOOPS\HOMEWORK_LOOPS\obj\Debug\HOMEWORK_LOOPS.pdb
