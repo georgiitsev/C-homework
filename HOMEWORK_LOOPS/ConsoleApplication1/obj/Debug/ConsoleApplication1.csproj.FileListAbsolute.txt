@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK_LOOPS\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

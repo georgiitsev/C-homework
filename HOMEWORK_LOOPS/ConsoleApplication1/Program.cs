@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace loop_Exam5
+namespace ConsoleApplication1
 {
     class Program
     {
@@ -21,7 +21,7 @@ namespace loop_Exam5
 
             for (int i = N; i <= N; i++)
             {
-                factorialN = i * i;
+                factorialN =i * i;
             }
             Console.WriteLine("FACTORIEL N! = {0}!", factorialN);
 
@@ -37,7 +37,7 @@ namespace loop_Exam5
             Console.WriteLine("factorialNK = " + factorialNK);
             int result = factorialN * factorialK / factorialNK;
             Console.WriteLine();
-            Console.WriteLine("Result of {0}!*{1}! / {2}! = " + result, factorialN, factorialK, factorialNK);
+            Console.WriteLine("Result of {0}!*{1}! / {2}! = "  + result,factorialN,factorialK,factorialNK);
         }
     }
 }
