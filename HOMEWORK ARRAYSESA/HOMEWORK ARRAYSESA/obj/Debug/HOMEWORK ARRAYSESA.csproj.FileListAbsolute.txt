@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\HOMEWORK ARRAYSESA\bin\Debug\HOMEWORK ARRAYSESA.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\HOMEWORK ARRAYSESA\bin\Debug\HOMEWORK ARRAYSESA.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\HOMEWORK ARRAYSESA\bin\Debug\HOMEWORK ARRAYSESA.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\HOMEWORK ARRAYSESA\obj\Debug\HOMEWORK ARRAYSESA.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\HOMEWORK ARRAYSESA\obj\Debug\HOMEWORK ARRAYSESA.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\HOMEWORK ARRAYSESA\obj\Debug\HOMEWORK ARRAYSESA.pdb

@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\comparetwoarrays\bin\Debug\comparetwoarrays.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\comparetwoarrays\bin\Debug\comparetwoarrays.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\comparetwoarrays\bin\Debug\comparetwoarrays.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\comparetwoarrays\obj\Debug\comparetwoarrays.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\comparetwoarrays\obj\Debug\comparetwoarrays.pdb

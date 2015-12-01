@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\value on i apply by 10\bin\Debug\value on i apply by 10.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\value on i apply by 10\bin\Debug\value on i apply by 10.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\value on i apply by 10\bin\Debug\value on i apply by 10.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\value on i apply by 10\obj\Debug\value on i apply by 10.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\value on i apply by 10\obj\Debug\value on i apply by 10.pdb

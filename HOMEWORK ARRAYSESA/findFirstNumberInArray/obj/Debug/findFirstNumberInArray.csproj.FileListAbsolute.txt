@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\findFirstNumberInArray\bin\Debug\findFirstNumberInArray.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\findFirstNumberInArray\bin\Debug\findFirstNumberInArray.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\findFirstNumberInArray\bin\Debug\findFirstNumberInArray.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\findFirstNumberInArray\obj\Debug\findFirstNumberInArray.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\findFirstNumberInArray\obj\Debug\findFirstNumberInArray.pdb

@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\fibbonacci\bin\Debug\fibbonacci.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\fibbonacci\bin\Debug\fibbonacci.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\fibbonacci\bin\Debug\fibbonacci.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\fibbonacci\obj\Debug\fibbonacci.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\fibbonacci\obj\Debug\fibbonacci.pdb

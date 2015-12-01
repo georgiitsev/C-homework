@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\matrix\bin\Debug\matrix.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\matrix\bin\Debug\matrix.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\matrix\bin\Debug\matrix.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\matrix\obj\Debug\matrix.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\matrix\obj\Debug\matrix.pdb

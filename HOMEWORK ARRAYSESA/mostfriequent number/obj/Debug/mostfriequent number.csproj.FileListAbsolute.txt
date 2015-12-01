@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\mostfriequent number\bin\Debug\mostfriequent number.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\mostfriequent number\bin\Debug\mostfriequent number.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\mostfriequent number\bin\Debug\mostfriequent number.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\mostfriequent number\obj\Debug\mostfriequent number.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\mostfriequent number\obj\Debug\mostfriequent number.pdb

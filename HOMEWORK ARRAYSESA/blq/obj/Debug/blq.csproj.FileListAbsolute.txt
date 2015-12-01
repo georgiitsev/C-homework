@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\blq\bin\Debug\blq.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\blq\bin\Debug\blq.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\blq\bin\Debug\blq.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\blq\obj\Debug\blq.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\blq\obj\Debug\blq.pdb

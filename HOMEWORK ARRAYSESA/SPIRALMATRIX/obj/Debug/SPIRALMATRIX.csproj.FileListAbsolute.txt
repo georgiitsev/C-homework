@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\SPIRALMATRIX\bin\Debug\SPIRALMATRIX.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\SPIRALMATRIX\obj\Debug\SPIRALMATRIX.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\SPIRALMATRIX\bin\Debug\SPIRALMATRIX.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\SPIRALMATRIX\bin\Debug\SPIRALMATRIX.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\SPIRALMATRIX\obj\Debug\SPIRALMATRIX.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK ARRAYSESA\SPIRALMATRIX\obj\Debug\SPIRALMATRIX.pdb
