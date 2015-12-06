@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\CALLFUNCTION 10 TIMES\bin\Debug\CALLFUNCTION 10 TIMES.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\CALLFUNCTION 10 TIMES\bin\Debug\CALLFUNCTION 10 TIMES.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\CALLFUNCTION 10 TIMES\bin\Debug\CALLFUNCTION 10 TIMES.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\CALLFUNCTION 10 TIMES\obj\Debug\CALLFUNCTION 10 TIMES.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\CALLFUNCTION 10 TIMES\obj\Debug\CALLFUNCTION 10 TIMES.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\CALLFUNCTION 10 TIMES\obj\Debug\CALLFUNCTION 10 TIMES.csprojResolveAssemblyReference.cache

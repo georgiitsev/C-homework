@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\EVEN OR ODD\bin\Debug\EVEN OR ODD.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\EVEN OR ODD\bin\Debug\EVEN OR ODD.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\EVEN OR ODD\bin\Debug\EVEN OR ODD.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\EVEN OR ODD\obj\Debug\EVEN OR ODD.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\EVEN OR ODD\obj\Debug\EVEN OR ODD.pdb

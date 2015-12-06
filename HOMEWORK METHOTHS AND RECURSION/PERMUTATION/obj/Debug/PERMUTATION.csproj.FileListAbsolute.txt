@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\PERMUTATION\bin\Debug\PERMUTATION.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\PERMUTATION\bin\Debug\PERMUTATION.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\PERMUTATION\bin\Debug\PERMUTATION.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\PERMUTATION\obj\Debug\PERMUTATION.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK METHOTHS AND RECURSION\PERMUTATION\obj\Debug\PERMUTATION.pdb
