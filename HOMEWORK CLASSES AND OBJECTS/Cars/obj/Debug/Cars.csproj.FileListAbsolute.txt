@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Cars\bin\Debug\Cars.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Cars\bin\Debug\Cars.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Cars\bin\Debug\Cars.pdb
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Cars\obj\Debug\Cars.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Cars\obj\Debug\Cars.pdb

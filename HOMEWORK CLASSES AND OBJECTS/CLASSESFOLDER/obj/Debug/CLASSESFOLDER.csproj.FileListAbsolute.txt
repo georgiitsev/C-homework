@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSESFOLDER\bin\Debug\CLASSESFOLDER.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSESFOLDER\bin\Debug\CLASSESFOLDER.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSESFOLDER\bin\Debug\CLASSESFOLDER.pdb
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSESFOLDER\obj\Debug\CLASSESFOLDER.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSESFOLDER\obj\Debug\CLASSESFOLDER.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSESFOLDER\obj\Debug\CLASSESFOLDER.pdb

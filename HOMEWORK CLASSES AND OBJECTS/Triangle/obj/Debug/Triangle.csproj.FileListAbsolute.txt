@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Triangle\bin\Debug\Triangle.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Triangle\bin\Debug\Triangle.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Triangle\bin\Debug\Triangle.pdb
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Triangle\obj\Debug\Triangle.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Triangle\obj\Debug\Triangle.pdb

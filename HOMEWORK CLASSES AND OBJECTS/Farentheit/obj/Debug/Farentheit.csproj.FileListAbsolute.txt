@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Farentheit\bin\Debug\Farentheit.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Farentheit\bin\Debug\Farentheit.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Farentheit\bin\Debug\Farentheit.pdb
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Farentheit\obj\Debug\Farentheit.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Farentheit\obj\Debug\Farentheit.exe
+D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\Farentheit\obj\Debug\Farentheit.pdb
