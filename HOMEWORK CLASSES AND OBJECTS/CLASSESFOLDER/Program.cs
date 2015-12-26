@@ -16,13 +16,14 @@ namespace CLASSESFOLDER
             CATS.Age = 18;
             int count = 1;
             int counter = 1;
+            CATS.Say();
 
-            string[] cats = new string[10];
+            string[] cat = new string[10];
 
-            for (int i = 0; i < cats.Length; i++)
+            for (int i = 0; i < cat.Length; i++)
             {
                 Console.WriteLine("Please enter name of cat №" + count++);
-                cats[i] = Console.ReadLine();
+                cat[i] = Console.ReadLine();
 
             }
             Console.WriteLine();
@@ -37,7 +38,7 @@ namespace CLASSESFOLDER
             }
             for (int i = 0; i < 10; i++)
             {
-                CATS.Name = cats[i];
+                CATS.Name = cat[i];
                 CATS.Age = ages[i];
                 CATS.Say();
             }

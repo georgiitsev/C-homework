@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP Principles", "OOP Principles\OOP Principles.csproj", "{64D78F27-24CD-4235-8A0A-E13F66965357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "first exam\Person.csproj", "{D6BBBEF1-F97E-4325-86D2-535F7ED79019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D78F27-24CD-4235-8A0A-E13F66965357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D78F27-24CD-4235-8A0A-E13F66965357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D78F27-24CD-4235-8A0A-E13F66965357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D78F27-24CD-4235-8A0A-E13F66965357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6BBBEF1-F97E-4325-86D2-535F7ED79019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BBBEF1-F97E-4325-86D2-535F7ED79019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BBBEF1-F97E-4325-86D2-535F7ED79019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BBBEF1-F97E-4325-86D2-535F7ED79019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

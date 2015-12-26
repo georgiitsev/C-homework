@@ -12,6 +12,8 @@ namespace Cars
         {
             Car car = new Car();
             car.Price = 18000;
+            car.Brand = "Skoda";
+
 
             Automobile automobile = new Automobile();
             automobile.Price = 38000;
@@ -27,14 +29,14 @@ namespace Cars
             {
                 if ( i >= 0 && i <= 4)
                 {
-                    Console.WriteLine("Please enter the car model or brand ");
+                    Console.WriteLine("Please enter the car brand ");
                     carBrand[i] = Console.ReadLine();
                     
                 }
 
                 else if (i >= 5 && i <= 10)
                 {
-                    Console.WriteLine("Plaese enter the SUV model or brand ");
+                    Console.WriteLine("Plaese enter the SUV brand ");
                     carBrand[i] = Console.ReadLine();
                 }
                 
@@ -51,7 +53,7 @@ namespace Cars
                    carPrice[i] =int.Parse( Console.ReadLine());
 
                 }
-                else //if (i >= 5 && i <= 10)
+                else if (i >= 5 && i <= 10)
                 {
                     Console.WriteLine("Please enter the price of SUV ");
                     carPrice[i] = int.Parse(Console.ReadLine());
@@ -70,6 +72,9 @@ namespace Cars
                     highly[i] = true;
                 }
             }
+            Car[] carses = new Car[5];
+            SUV test = new SUV();
+            
             
             for (int i = 0; i <10; i++)
             {

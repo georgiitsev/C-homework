@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\CalcolateEGN\CalcolateEGN\bin\Debug\CalcolateEGN.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\CalcolateEGN\CalcolateEGN\bin\Debug\CalcolateEGN.exe
+D:\soft-intellect\C#\homeworks\C-homework\CalcolateEGN\CalcolateEGN\bin\Debug\CalcolateEGN.pdb
+D:\soft-intellect\C#\homeworks\C-homework\CalcolateEGN\CalcolateEGN\obj\Debug\CalcolateEGN.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\CalcolateEGN\CalcolateEGN\obj\Debug\CalcolateEGN.exe
+D:\soft-intellect\C#\homeworks\C-homework\CalcolateEGN\CalcolateEGN\obj\Debug\CalcolateEGN.pdb

@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\first exam\bin\Debug\first exam.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\first exam\bin\Debug\first exam.exe
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\first exam\bin\Debug\first exam.pdb
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\first exam\obj\Debug\Person.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\first exam\obj\Debug\first exam.exe
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\first exam\obj\Debug\first exam.pdb

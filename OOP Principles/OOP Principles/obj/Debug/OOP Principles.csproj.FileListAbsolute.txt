@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\OOP Principles\bin\Debug\OOP Principles.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\OOP Principles\bin\Debug\OOP Principles.exe
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\OOP Principles\bin\Debug\OOP Principles.pdb
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\OOP Principles\obj\Debug\OOP Principles.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\OOP Principles\obj\Debug\OOP Principles.exe
+D:\soft-intellect\C#\homeworks\C-homework\OOP Principles\OOP Principles\obj\Debug\OOP Principles.pdb

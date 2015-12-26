@@ -8,6 +8,7 @@ namespace Cars
 {
     class Car
     {
+        public string Brand { get; set; }
         public int Price { get; set; }
     }
 }

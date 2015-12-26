@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CARS\HOMEWORK CARS\bin\Debug\HOMEWORK CARS.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CARS\HOMEWORK CARS\bin\Debug\HOMEWORK CARS.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CARS\HOMEWORK CARS\bin\Debug\HOMEWORK CARS.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CARS\HOMEWORK CARS\obj\Debug\HOMEWORK CARS.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CARS\HOMEWORK CARS\obj\Debug\HOMEWORK CARS.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CARS\HOMEWORK CARS\obj\Debug\HOMEWORK CARS.pdb

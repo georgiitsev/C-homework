@@ -3,3 +3,6 @@ D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSES AND OBJECT
 D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\CLASSES AND OBJECTS.pdb
 D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\CLASSES AND OBJECTS.exe
 D:\soft-intellect\C#\homeworks\C-homework\CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\CLASSES AND OBJECTS.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CLASSES AND OBJECTS\CLASSES AND OBJECTS\bin\Debug\CLASSES AND OBJECTS.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\CLASSES AND OBJECTS.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORK CLASSES AND OBJECTS\CLASSES AND OBJECTS\obj\Debug\CLASSES AND OBJECTS.pdb

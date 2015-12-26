@@ -8,6 +8,10 @@ namespace Cars
 {
     class Automobile:Car
     {
+        public Automobile()
+        {
+
+        }
         public float FullConsumation { get; set; }
     }
 }
