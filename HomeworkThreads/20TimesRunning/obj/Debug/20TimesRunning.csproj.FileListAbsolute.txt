@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\20TimesRunning\bin\Debug\20TimesRunning.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\20TimesRunning\bin\Debug\20TimesRunning.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\20TimesRunning\bin\Debug\20TimesRunning.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\20TimesRunning\obj\Debug\20TimesRunning.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\20TimesRunning\obj\Debug\20TimesRunning.pdb

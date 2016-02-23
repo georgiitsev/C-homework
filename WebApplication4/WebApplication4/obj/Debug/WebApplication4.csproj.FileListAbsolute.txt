@@ -1,0 +1,5 @@
+c:\users\георги\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\георги\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\георги\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\георги\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+c:\users\георги\documents\visual studio 2012\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+These will all print very cleanly (without printing the MP3 player and menu.)
+You can read the text as you listen to its MP3 file.
+The Voice of America (VOA) American Stories are good for people studying English
+because they can not only listen to the stories but also read them. These are in VOA's Special English.
+This site only hosts the American Stories that are not adaptations of copyrighted material.
+"All text, audio and video material produced exclusively by the Voice of America
+is public domain. However, some images and graphics are licensed for use and
+covered by all applicable copyright laws."
+Please note that though the source files were in the public domain, I have done some editing.

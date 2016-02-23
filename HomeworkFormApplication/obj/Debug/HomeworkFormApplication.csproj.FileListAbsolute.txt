@@ -1,0 +1,9 @@
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\bin\Debug\HomeworkFormApplication.exe.config
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\bin\Debug\HomeworkFormApplication.exe
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\bin\Debug\HomeworkFormApplication.pdb
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\obj\Debug\HomeworkFormApplication.csprojResolveAssemblyReference.cache
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\obj\Debug\HomeworkFormApplication.UserInformation.resources
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\obj\Debug\HomeworkFormApplication.Properties.Resources.resources
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\obj\Debug\HomeworkFormApplication.csproj.GenerateResource.Cache
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\obj\Debug\HomeworkFormApplication.exe
+c:\users\георги\documents\visual studio 2012\Projects\WindowsFormsApplication7\HomeworkFormApplication\obj\Debug\HomeworkFormApplication.pdb

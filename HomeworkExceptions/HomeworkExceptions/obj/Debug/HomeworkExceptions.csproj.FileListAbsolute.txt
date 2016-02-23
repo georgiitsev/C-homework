@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\HomeworkExceptions\bin\Debug\HomeworkExceptions.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\HomeworkExceptions\bin\Debug\HomeworkExceptions.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\HomeworkExceptions\bin\Debug\HomeworkExceptions.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\HomeworkExceptions\obj\Debug\HomeworkExceptions.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\HomeworkExceptions\obj\Debug\HomeworkExceptions.pdb

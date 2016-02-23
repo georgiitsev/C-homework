@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\A-Z\bin\Debug\A-Z.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\A-Z\bin\Debug\A-Z.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\A-Z\bin\Debug\A-Z.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\A-Z\obj\Debug\A-Z.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\A-Z\obj\Debug\A-Z.pdb

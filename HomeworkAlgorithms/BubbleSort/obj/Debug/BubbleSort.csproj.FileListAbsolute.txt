@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\BubbleSort\bin\Debug\BubbleSort.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\BubbleSort\obj\Debug\BubbleSort.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\BubbleSort\obj\Debug\BubbleSort.pdb

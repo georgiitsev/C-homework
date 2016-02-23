@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\SevenWays\bin\Debug\SevenWays.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\SevenWays\bin\Debug\SevenWays.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\SevenWays\bin\Debug\SevenWays.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\SevenWays\obj\Debug\SevenWays.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\SevenWays\obj\Debug\SevenWays.pdb

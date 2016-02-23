@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\TASK 7\bin\Debug\TASK 7.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\TASK 7\bin\Debug\TASK 7.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\TASK 7\bin\Debug\TASK 7.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\TASK 7\obj\Debug\TASK 7.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\TASK 7\obj\Debug\TASK 7.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\TASK 7\obj\Debug\TASK 7.pdb

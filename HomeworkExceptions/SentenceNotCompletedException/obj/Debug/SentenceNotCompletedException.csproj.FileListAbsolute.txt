@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\SentenceNotCompletedException\bin\Debug\SentenceNotCompletedException.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\SentenceNotCompletedException\bin\Debug\SentenceNotCompletedException.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\SentenceNotCompletedException\bin\Debug\SentenceNotCompletedException.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\SentenceNotCompletedException\obj\Debug\SentenceNotCompletedException.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkExceptions\SentenceNotCompletedException\obj\Debug\SentenceNotCompletedException.pdb

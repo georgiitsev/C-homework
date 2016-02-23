@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\HomeworkThreads\bin\Debug\HomeworkThreads.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\HomeworkThreads\bin\Debug\HomeworkThreads.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\HomeworkThreads\bin\Debug\HomeworkThreads.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\HomeworkThreads\obj\Debug\HomeworkThreads.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkThreads\HomeworkThreads\obj\Debug\HomeworkThreads.pdb

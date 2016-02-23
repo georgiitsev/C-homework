@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkAlgorithms", "HomeworkAlgorithms\HomeworkAlgorithms.csproj", "{D9EEF249-0B5C-4CC1-BB7C-D54DA013A602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{55F4AB6C-D1AE-41E0-B506-65626E26FF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-Z", "A-Z\A-Z.csproj", "{787FA30D-BAE1-40A7-9A72-412D742D8081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2arraysandoodnumbers", "2arraysandoodnumbers\2arraysandoodnumbers.csproj", "{21032A07-B674-435C-A387-CAC8E4222612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EEF249-0B5C-4CC1-BB7C-D54DA013A602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EEF249-0B5C-4CC1-BB7C-D54DA013A602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EEF249-0B5C-4CC1-BB7C-D54DA013A602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EEF249-0B5C-4CC1-BB7C-D54DA013A602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F4AB6C-D1AE-41E0-B506-65626E26FF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F4AB6C-D1AE-41E0-B506-65626E26FF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F4AB6C-D1AE-41E0-B506-65626E26FF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F4AB6C-D1AE-41E0-B506-65626E26FF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787FA30D-BAE1-40A7-9A72-412D742D8081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787FA30D-BAE1-40A7-9A72-412D742D8081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787FA30D-BAE1-40A7-9A72-412D742D8081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787FA30D-BAE1-40A7-9A72-412D742D8081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21032A07-B674-435C-A387-CAC8E4222612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21032A07-B674-435C-A387-CAC8E4222612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21032A07-B674-435C-A387-CAC8E4222612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21032A07-B674-435C-A387-CAC8E4222612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\REMOVEODDNUMBERS\bin\Debug\REMOVEODDNUMBERS.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\REMOVEODDNUMBERS\bin\Debug\REMOVEODDNUMBERS.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\REMOVEODDNUMBERS\bin\Debug\REMOVEODDNUMBERS.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\REMOVEODDNUMBERS\obj\Debug\REMOVEODDNUMBERS.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\REMOVEODDNUMBERS\obj\Debug\REMOVEODDNUMBERS.exe
+D:\soft-intellect\C#\homeworks\C-homework\HOMEWORKDATASTRUCTURE\REMOVEODDNUMBERS\obj\Debug\REMOVEODDNUMBERS.pdb

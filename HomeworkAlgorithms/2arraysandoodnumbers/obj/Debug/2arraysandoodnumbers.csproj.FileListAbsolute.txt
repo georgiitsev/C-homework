@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\2arraysandoodnumbers\bin\Debug\2arraysandoodnumbers.exe.config
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\2arraysandoodnumbers\bin\Debug\2arraysandoodnumbers.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\2arraysandoodnumbers\bin\Debug\2arraysandoodnumbers.pdb
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\2arraysandoodnumbers\obj\Debug\2arraysandoodnumbers.exe
+D:\soft-intellect\C#\homeworks\C-homework\HomeworkAlgorithms\2arraysandoodnumbers\obj\Debug\2arraysandoodnumbers.pdb
