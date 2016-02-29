@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
+<head id="Head1" runat="server">
     <title>Population Statistics</title>
     <style>
         .button {
@@ -55,3 +55,6 @@
                 </ItemTemplate>
             </asp:Repeater>
         </div>
+    </form>
+</body>
+</html>

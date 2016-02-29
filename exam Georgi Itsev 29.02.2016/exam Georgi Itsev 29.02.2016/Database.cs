@@ -9,9 +9,9 @@ namespace exam_Georgi_Itsev_29._02._2016
 {
     public class Database
     {
-        public static List<exam_Georgi_Itsev_29._02._2016.Population.Statistics> GetResults()
+        public static List<Statistics> GetResults()
         {
-            List<exam_Georgi_Itsev_29._02._2016.Population.Statistics> result = new List<exam_Georgi_Itsev_29._02._2016.Population.Statistics>();
+            List<Statistics> result = new List<Statistics>();
 
             using (StreamReader reader = new StreamReader(ConfigurationManager.AppSettings["FilePath"]))
             {
@@ -19,7 +19,7 @@ namespace exam_Georgi_Itsev_29._02._2016
                 do
                 {
                     string[] countryInfo = line.Split('|');
-                    result.Add(new exam_Georgi_Itsev_29._02._2016.Population.Statistics()
+                    result.Add(new Statistics()
                     {
                         Country = countryInfo[0],
                         Capital = countryInfo[1],

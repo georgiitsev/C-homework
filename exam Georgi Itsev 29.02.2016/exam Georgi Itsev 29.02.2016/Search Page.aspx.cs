@@ -15,25 +15,22 @@ namespace exam_Georgi_Itsev_29._02._2016
         {
 
         }
-        protected void btnSubmit_Click(object sender, EventArgs e)
+        protected void btnSearch_Click(object sender, EventArgs e)
         {
-            exam_Georgi_Itsev_29._02._2016.Population.Statistics statistics = new exam_Georgi_Itsev_29._02._2016.Population.Statistics()
-            {
-                Country = countryTextBox.Text,
-                Capital = capitalTextBox.Text,
-                Population = int.Parse(populationTextBox.Text),
-            };
+            List<Statistics> results = new List<Statistics>();
 
-            using (StreamWriter writer = new StreamWriter(ConfigurationManager.AppSettings["FilePath"], true))
+            foreach (Statistics item in info)
             {
-                writer.WriteLine(statistics);
+                if (item.Country.ToLower().Contains(countryTextBox.Text.ToLower()))
+                {
+                    results.Add(item);
+                }
             }
-
-            countryTextBox.Text = "";
-            capitalTextBox.Text = "";
-            populationTextBox.Text = "";
+            infoRepeater.DataSource = results;
+            infoRepeater.DataBind();
         }
+
+        public IEnumerable<Statistics> info { get; set; }
     }
 }
-    }
-}
+
