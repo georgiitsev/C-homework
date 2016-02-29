@@ -1,0 +1,5 @@
+D:\soft-intellect\C#\homeworks\C-homework\exam Georgi Itsev 29.02.2016\exam Georgi Itsev 29.02.2016\bin\exam Georgi Itsev 29.02.2016.dll
+D:\soft-intellect\C#\homeworks\C-homework\exam Georgi Itsev 29.02.2016\exam Georgi Itsev 29.02.2016\bin\exam Georgi Itsev 29.02.2016.pdb
+D:\soft-intellect\C#\homeworks\C-homework\exam Georgi Itsev 29.02.2016\exam Georgi Itsev 29.02.2016\obj\Debug\exam Georgi Itsev 29.02.2016.csprojResolveAssemblyReference.cache
+D:\soft-intellect\C#\homeworks\C-homework\exam Georgi Itsev 29.02.2016\exam Georgi Itsev 29.02.2016\obj\Debug\exam Georgi Itsev 29.02.2016.dll
+D:\soft-intellect\C#\homeworks\C-homework\exam Georgi Itsev 29.02.2016\exam Georgi Itsev 29.02.2016\obj\Debug\exam Georgi Itsev 29.02.2016.pdb
