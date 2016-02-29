@@ -5,7 +5,7 @@ using System.Text;
 
 namespace exam_Georgi_Itsev_29._02._2016
 {
-    class Statistics
+    public class Statistics
     {
         private string country;
         public string Country

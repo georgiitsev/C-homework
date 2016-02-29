@@ -7,17 +7,8 @@
     <title></title>
 </head>
 <body>
+    
     <form id="form1" runat="server">
-    <div>
-        <title>Country Population</title>
-    <style>
-        .button {
-            margin-left: 30px;
-        }
-    </style>
-</head>
-<body>
-    <form id="form2" runat="server">
         <div>
             <asp:LinkButton ID="LinkButton1" Text="Search Population" runat="server" CssClass="button" PostBackUrl="~/Search Page.aspx" />
             <br />

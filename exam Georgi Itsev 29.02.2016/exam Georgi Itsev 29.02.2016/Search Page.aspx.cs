@@ -11,10 +11,13 @@ namespace exam_Georgi_Itsev_29._02._2016
 {
     public partial class Search_Page : System.Web.UI.Page
     {
+        private static List<Statistics> info = Database.GetResults();
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
         }
+
         protected void btnSearch_Click(object sender, EventArgs e)
         {
             List<Statistics> results = new List<Statistics>();
@@ -29,8 +32,5 @@ namespace exam_Georgi_Itsev_29._02._2016
             infoRepeater.DataSource = results;
             infoRepeater.DataBind();
         }
-
-        public IEnumerable<Statistics> info { get; set; }
     }
 }
-

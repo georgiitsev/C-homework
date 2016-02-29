@@ -10,8 +10,13 @@ using System.Web.UI.WebControls;
 
 namespace exam_Georgi_Itsev_29._02._2016
 {
-    public class HomePage
+    public partial class HomePage : System.Web.UI.Page
     {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
         protected void btnSubmit_Click(object sender, EventArgs e)
         {
             Statistics statistics = new Statistics()
